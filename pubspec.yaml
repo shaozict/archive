@@ -1,4 +1,4 @@
-name: archive
+name: archive_fork
 version: 3.1.2
 description: >-
   Provides encoders and decoders for various archive and compression formats
